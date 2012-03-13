@@ -33,6 +33,7 @@ an API begins and a data feed ends.
 The following is an (brainstorming) example of an SDS feed in JSON
 for a CSV file.
 
+```
   {
     "sds_version": "0.1",
     "set_name": "Our Example Set",
@@ -63,3 +64,4 @@ for a CSV file.
       }
     ]
   }
+```
