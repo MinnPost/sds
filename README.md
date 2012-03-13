@@ -13,3 +13,17 @@ around this idea and help make it a real standard.
 ## Get Involved
 
 Email: ??
+
+## What are Datasets?
+
+Datasets are any structured, non-API sources of data.  For example:
+
+* CSV file
+* JSON feed
+* RSS feed
+* XML document
+* Shapefile
+* ??
+
+This needs more definition.  It is difficult to determine where
+an API begins and a data feed ends.
