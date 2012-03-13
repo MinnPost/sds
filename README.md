@@ -26,7 +26,8 @@ Datasets are any structured, non-API sources of data.  For example:
 * ??
 
 This needs more definition.  It is difficult to determine where
-an API begins and a data feed ends.
+an API begins and a data feed ends.  This could be helpful:
+http://en.wikipedia.org/wiki/Data_set
 
 ## Example
 
